@@ -8,6 +8,7 @@ C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Debug\netcoreapp3.1\Song
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Debug\netcoreapp3.1\SongLibrary.pdb
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Debug\netcoreapp3.1\SongLibrary.Views.dll
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Debug\netcoreapp3.1\SongLibrary.Views.pdb
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\SongLibrary.csprojAssemblyReference.cache
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\SongLibrary.AssemblyInfoInputs.cache
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\SongLibrary.AssemblyInfo.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\SongLibrary.csproj.CoreCompileInputs.cache
