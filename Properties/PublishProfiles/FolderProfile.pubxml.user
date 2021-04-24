@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
-    <History>True|2021-04-23T15:20:29.1270494Z;True|2021-04-23T10:36:14.3385221-04:00;True|2021-04-22T23:46:27.0545254-04:00;True|2021-04-22T22:29:41.9054471-04:00;</History>
+    <History>True|2021-04-24T01:40:12.9865883Z;True|2021-04-23T11:20:29.1270494-04:00;True|2021-04-23T10:36:14.3385221-04:00;True|2021-04-22T23:46:27.0545254-04:00;True|2021-04-22T22:29:41.9054471-04:00;</History>
   </PropertyGroup>
 </Project>
