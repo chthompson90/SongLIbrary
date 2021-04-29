@@ -2,36 +2,29 @@
 @{
     ViewData["Title"] = "SongList";
 }
-<h1>@ViewData["Title"]</h1>
-
-<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-<link rel="stylesheet" href="~/css/site.css" />
-
-
 
     <div>
-        <table class="table table-hover">
+        <table class="table table-hover table-dark">
             <thead></thead>
             <tr>
                 <th scope="col">Song</th>
                 <th scope="col">Artist</th>
                 <th scope="col">Page</th>
             </tr>
-            <tr class="table-secondary">
+            <tr>
                 <th scope="row">What We Have is You</th>
                 <th scope="col">Kipo</th>
-                <th scope="col"><a class="btn btn-secondary" href="/songs/whatWeHaveIsYou">Song Page</a></th>
+                <th scope="col"><a class="btn btn-success" href="/songs/whatWeHaveIsYou">Audio</a></th>
             </tr>
-            <tr class="table-secondary">
+            <tr>
                 <th scope="row">Red Roses</th>
                 <th scope="col">Phil West</th>
-                <th scope="col"><a class="btn btn-secondary" href="/songs/redRoses">Song Page</a></th>
-            <tr class="table-secondary">
+                <th scope="col"><a class="btn btn-success" href="/songs/redRoses">Audio</a></th>
+            <tr>
                 <th scope="row">Favorite Mistake</th>
                 <th scope="col">Trevor Pietsch</th>
-                <th scope="col"><a class="btn btn-secondary" href="/songs/favoriteMistake">Song Page</a></th>
+                <th scope="col"><a class="btn btn-info" href="/songs/favoriteMistake">Video</a></th>
             </tr>
-            </tr>
-
+   
         </table>
     </div>

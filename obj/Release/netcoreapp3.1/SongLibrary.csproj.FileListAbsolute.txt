@@ -41,3 +41,5 @@ C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\So
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\SongLibrary.pdb
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\SongLibrary.genruntimeconfig.cache
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\SongLibrary.csproj.CopyComplete
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\Razor\Pages\Ragnarockers.cshtml.g.cs
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\Razor\Pages\TequilaMockingbird.cshtml.g.cs

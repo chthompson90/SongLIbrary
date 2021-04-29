@@ -8,7 +8,6 @@ C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Debug\netcoreapp3.1\Song
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Debug\netcoreapp3.1\SongLibrary.pdb
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Debug\netcoreapp3.1\SongLibrary.Views.dll
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\bin\Debug\netcoreapp3.1\SongLibrary.Views.pdb
-C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\SongLibrary.csprojAssemblyReference.cache
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\SongLibrary.AssemblyInfoInputs.cache
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\SongLibrary.AssemblyInfo.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\SongLibrary.csproj.CoreCompileInputs.cache
@@ -25,12 +24,14 @@ C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razo
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\Ragnarockers.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\SongList.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\songs\favoriteMistake.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\songs\redRoses.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\songs\whatWeHaveIsYou.cshtml.g.cs
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\TequilaMockingbird.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\Test.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs

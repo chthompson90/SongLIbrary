@@ -1,10 +1,22 @@
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\SongLibrary.exe
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\Beaches of Glass - 4_29_20, 11.35 PM.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\Blue Roses - 4_29_20, 11.35 PM.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\CalliopeSmile.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\GatorSkynePurse.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\On My Myne - 4_29_20, 11.37 PM.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\On Yout'n Dancing - 4_29_20, 11.38 PM.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\Red Roses - 4_29_20, 11.33 PM.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\RedRoses.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\Vorpal Sword +3 - 4_29_20, 11.39 PM.wav
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\audio\Weakday - 4_29_20, 11.40 PM.wav
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\images\AbMajorBar4.png
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\images\BbMajorBar6.png
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\images\CminorBar3.png
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\images\DminorBar5.png
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\images\EbMajorBar6.png
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\images\kipo.png
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\images\ragnaMillersPhoto.png
+C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\assets\images\tequilaMockingbirdBandPhoto.png
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\site.css
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\favicon.ico
 C:\Users\cthom\source\repos\SongLibrary\SongLibrary\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\site.js
