@@ -12,4 +12,8 @@
     <None Remove="Assets\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Artists\" />
+  </ItemGroup>
+
 </Project>

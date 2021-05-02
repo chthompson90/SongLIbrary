@@ -21,12 +21,29 @@
                         <li class="nav-item">
                             <a class="nav-link text-light" asp-area="" asp-page="/SongList">SongList</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="" asp-page="/Ragnarockers">The Ragnarockers</a>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Bands<span class="caret"></span></a>
+                            <div class="dropdown-menu" aria-labelledby="themes">
+
+                                <a class="nav-link text-dark dropdown-item-text" asp-area="" asp-page="/bands/ragnarockers">The Ragnarockers</a>
+                                <a class="nav-link text-dark dropdown-item-text" asp-area="" asp-page="/bands/tequilamockingbird">Tequila Mockingbird</a>
+
+                            </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="" asp-page="/TequilaMockingbird">Tequila Mockingbird</a>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Artists<span class="caret"></span></a>
+                            <div class="dropdown-menu" aria-labelledby="themes">
+
+                                <a class="nav-link text-dark dropdown-item-text" asp-area="" asp-page="/artists/philwest">Phil West</a>
+                                <a class="nav-link text-dark dropdown-item-text" asp-area="" asp-page="/artists/ct">CT</a>
+                                <a class="nav-link text-dark dropdown-item-text" asp-area="" asp-page="/artists/trevorpietsch">Trevor Pietsch</a>
+
+                            </div>
                         </li>
+
+
                     </ul>
                 </div>
             </div>
